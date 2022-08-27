@@ -1,0 +1,80 @@
+h1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
+#cvname {
+    padding-left: 300px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+#obj {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+.result {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+body {
+    background-color: rgb(247, 237, 225);
+}
+.exp {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+.rex {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+.expo {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+h3 {
+    background-color: whitesmoke;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+}
+.ski {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+.pat {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+.eca {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+#pi {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+#refe {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+#sef {
+    padding-left: 300px;
+    text-align: justify;
+    padding-right: 300px;
+}
+div {
+    border: 15px solid red;
+}
